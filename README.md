@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">
+Hi 👋 I'm David Suarez</h1>
 <h3 align="center">
   I am a backend developer very passionate about technology and programming, ⚡
 </h3>
