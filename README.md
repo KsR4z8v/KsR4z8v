@@ -84,7 +84,6 @@ Hi 👋 I'm David Suarez</h1>
 <ul>
   <li>Building clean, testable, and maintainable backend architectures (Hexagonal, Clean Architecture)</li>
   <li>Applying design patterns to solve complex backend problems</li>
-  <li>Developing scalable APIs and microservices with Node.js, Python, and Java</li>
+  <li>Developing scalable APIs and microservices with Node.js</li>
   <li>Database modeling and optimization (PostgreSQL, MongoDB, MySQL)</li>
-  <li>Containerization and CI/CD pipelines using Docker</li>
 </ul>
